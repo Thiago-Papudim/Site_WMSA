@@ -3,12 +3,12 @@ body {
 }
 
 .navbar {
-    background-color: #4B6F76;
+    background-color: #136A73;
 }
 
 #cabecalho .nav .nav-link.active {
     background-color: #fff;
-    color: #4B6F76;
+    color: #136A73;
 }
 
 #cabecalho .nav .nav-link,
@@ -36,17 +36,17 @@ body {
 }
 
 .text-colored {
-    color: #4B6F76;
+    color: #136A73;
 }
 
 .nav-advogados .nav-link.active,
 #fale-conosco button {
-    background-color: #4B6F76;
+    background-color: #136A73;
     color: #fff;
 }
 
 .nav-advogados .nav-link:hover {
-    color: #4B6F76;
+    color: #136A73;
 }
 
 .social-links li {
